@@ -13,7 +13,7 @@ def setup():
     # secondScreen (x2,y2)
     gameStarted = False
     frameRate = 10
-    
+    gameStarted2 = False
 
     
     
@@ -49,7 +49,16 @@ def secondScreen():
     rect(600,600,350,250)
 # rect 3 
     rect(1000,250,350,250)
+    # thirdScreen()
+    
+    
 
+    
+    
+def thirdScreen():
+
+    size(1680,1000)
+    # background(102, 102, 153)
     
 
 
